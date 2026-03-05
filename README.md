@@ -1,6 +1,6 @@
 ## SumFun
 
-A simple JetPack Compose calculator app.
+A calculator app.
 
 ## Technology stack
 
@@ -11,7 +11,7 @@ A simple JetPack Compose calculator app.
 
 ## Demo
 
-The APK can be found [here](https://github.com/slowburn-404/PRODIGY_AD_01/releases/tag/v1.0.0).
+The APK can be found [here](https://github.com/AdityaYeshi/PRODIGY_AD_01/releases/tag/v1.0.0).
 
 <img src="./screenshots/lightmode.png" alt="light mode" width="200"/>
 <img src="./screenshots/darkmode.png" alt="dark mode" width="200"/>
@@ -21,7 +21,7 @@ The APK can be found [here](https://github.com/slowburn-404/PRODIGY_AD_01/releas
 - Clone this git repository into your local machine.
 
 ```bash
-git clone https://github.com/slowburn-404/PRODIGY_AD_01
+git clone https://github.com/AdityaYeshi/PRODIGY_AD_01
 ```
 
 - Build the project.
